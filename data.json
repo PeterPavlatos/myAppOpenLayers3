@@ -1,0 +1,40 @@
+[{
+    "id":1, 
+    "coord": [16.35, 48.213], 
+    "country": "Austria",
+    "city": "Vienna", 
+    "markerClass": "blue",
+    "src": "images/poi.png"
+},
+{
+    "id":2,
+    "coord": [-0.1351, 51.5244], 
+    "country": "England",
+    "city": "London", 
+    "markerClass": "red",
+    "src": "images/poi.png"
+},
+{
+    "id":3,
+    "coord": [23.7279, 37.9847], 
+    "country": "Greece",
+    "city": "Athens", 
+    "markerClass": "red",
+    "src": "images/poi.png"
+},
+{
+    "id":4,
+    "coord": [-75.70, 45.43], 
+    "country": "Canada",
+    "city": "Ottawa", 
+    "markerClass": "red",
+    "src": "images/poi.png"
+},
+{
+    "id":5,
+    "coord": [12.4785, 41.8923], 
+    "country": "Italy",
+    "city": "Rome", 
+    "markerClass": "red",
+    "src": "images/poi.png"
+}]
